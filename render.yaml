@@ -5,4 +5,4 @@ services:
     buildCommand: ""
     startCommand: gunicorn main:app
     plan: free
-    region: oregon
+    region: frankfurt
